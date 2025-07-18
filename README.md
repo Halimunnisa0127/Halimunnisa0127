@@ -9,7 +9,7 @@ I'm a passionate and dedicated **Frontend Developer** with a strong foundation i
 ## 🚀 About Me
 
 - 🔭 I’m currently working on improving my frontend development skills through real-world projects.
-- 🌱 I’m currently learning **Django**, **API integration**, and **advanced Git workflows**.
+- 🌱 I’m currently learning **Reducx** and **advanced Git workflows**.
 - 👯 I’m looking to collaborate on **open-source frontend projects**.
 - 🤔 I’m looking for help with **optimizing React performance and animations**.
 - 💬 Ask me about **React, JavaScript, Python**, or anything web-related!
