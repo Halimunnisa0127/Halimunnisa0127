@@ -11,7 +11,7 @@ I'm a passionate and dedicated **Full-Stack Developer** with a strong foundation
 - 🔭 Actively improving my backend development skills by building real-world applications.
 - 🌱 Currently learning Node.js, MongoDB, and REST API development.
 - 👯 Interested in contributing to open-source frontend projects and collaborating with developers.
-- 💬 Ask me about **React, JavaScript**, or anything web-related!
+- 💬 Ask me about **React, JavaScript** or anything web-related!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy designing intuitive user interfaces and exploring new tech trends!
 
@@ -20,7 +20,7 @@ I'm a passionate and dedicated **Full-Stack Developer** with a strong foundation
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halimunnisa-shaik-dev)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikmunni1314@gmail.com) 
-[![Vercel](https://vercel.com/shaik-halimunnisas-projects)
+[![Vercel](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/shaik-halimunnisas-projects)
 
 ## 🌐 Portfolio
 Explore my projects and skills here:
