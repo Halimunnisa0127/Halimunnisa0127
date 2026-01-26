@@ -20,7 +20,7 @@ I'm a passionate and dedicated **Full-Stack Developer** with a strong foundation
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halimunnisa-shaik-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmunni1314@gmail.com)
-[![Vercel](https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/shaik-halimunnisas-projects)
+[![Vercel](https://img.shields.io/badge/Vercel%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/shaik-halimunnisas-projects)
 
 
 ## 🌐 Portfolio
