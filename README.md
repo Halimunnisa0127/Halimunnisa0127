@@ -20,12 +20,12 @@ I'm a passionate and dedicated **Full-Stack Developer** with a strong foundation
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halimunnisa-shaik-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmunni1314@gmail.com)
-[![Vercel](https://img.shields.io/badge/Vercel%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/shaik-halimunnisas-projects)
 
 
 ## 🌐 Portfolio
-Explore my projects and skills here:
+##### Explore my projects and skills here:
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://halimunnisa-portfolio.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Vercel%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/shaik-halimunnisas-projects)
 
 
 ### 💻 Tech Stack
@@ -45,6 +45,7 @@ Explore my projects and skills here:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
